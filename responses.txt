@@ -1,0 +1,18 @@
+key: welcome
+	resp: welcome message 1
+	resp: welcome message 2
+	resp: welcome message 3
+key: name
+	resp: Now that I have introduced myself! What is your name?
+	resp: What is your name weary traveler?
+	resp: But enough of myself, what is your name?
+	resp: What is your name?
+	resp: You look like you could use a drink, lets get straight to it. Name please?
+	resp: What should I call you?
+key: greeting
+	resp: Nice to meet you, {}!
+	resp: It's a pleasure to meet you, {}!
+key: repeat
+	resp: I'm sorry I didn't get that could you rephrase that?
+	resp: Could you repeat that? I couldn't quite understand.
+end

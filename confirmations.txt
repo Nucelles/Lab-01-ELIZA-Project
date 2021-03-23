@@ -1,0 +1,13 @@
+key: yes
+	response: yes
+	response: yep
+	response: yeah
+	response: love
+	response: okay
+	response: sure
+	response: like 
+key: no
+	response: no
+	resposne: not
+	response: nope
+end

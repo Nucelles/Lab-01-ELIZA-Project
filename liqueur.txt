@@ -1,0 +1,39 @@
+Gin
+Vodka
+Lillet Blonde
+White rum
+Campari
+Vermouth
+Kirsch
+Whiskey
+Cognac
+Ginger Ale
+Dark rum
+Pisco
+Tequila
+Triple Sec
+Apricot brandy
+Calvados
+Champagne
+Red Port
+Coffee liqueur
+Galliano
+Cherry liqueur
+Prosecco
+Creme liqueur
+Cream 
+Drambuie
+Cream liqueur
+DiSaronno
+Aperol
+Blackberry liqueur
+Raspberry liqueur
+Peach schnapps
+Absinthe
+DOM Benedictine
+Ginger beer
+beer
+Dry White Wine
+Wine
+Cachaca
+end
